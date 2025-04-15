@@ -1,1 +1,1 @@
-alert('XSS in swagger-ui' + document.domain);
+alert('XSS in swagger-ui by defalt47' + document.domain);
